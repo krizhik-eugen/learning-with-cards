@@ -6,7 +6,7 @@ import { Registration } from '../../../n2-features/f1-auth/a2-register/Registrat
 import { PassRecovering } from '../../../n2-features/f1-auth/a3-pass-recovering/PassRecovering';
 import {NewPasswordCreation} from '../../../n2-features/f1-auth/a4-newpass-creation/NewPassCreation';
 import { Profile } from '../../../n2-features/f2-profile/Profile';
-import {Error404} from '../../../n2-features/f2-profile/Error404';
+import {Error404} from '../../../n2-features/Error404';
 
 export const path = {
     login: '/login',
