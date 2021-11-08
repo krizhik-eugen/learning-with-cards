@@ -1,0 +1,25 @@
+.default {
+    margin: 5px;
+    width: 100px;
+    background-color: #05a9ca;
+    font-size: 15px;
+    border: 2px solid #5898b9;
+    border-radius: 5px;
+}
+
+.default:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.red {
+    margin: 5px;
+    background: red;
+    width: 100px;
+    border: 2px solid #5898b9;
+    border-radius: 5px;
+}
+
+.red:hover {
+    font-weight: bold;
+}
