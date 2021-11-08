@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/learning-with-cards/static/css/main.f8ef6527.chunk.css",
-    "main.js": "/learning-with-cards/static/js/main.27ad2c88.chunk.js",
-    "main.js.map": "/learning-with-cards/static/js/main.27ad2c88.chunk.js.map",
+    "main.css": "/learning-with-cards/static/css/main.19707505.chunk.css",
+    "main.js": "/learning-with-cards/static/js/main.d44e61a7.chunk.js",
+    "main.js.map": "/learning-with-cards/static/js/main.d44e61a7.chunk.js.map",
     "runtime-main.js": "/learning-with-cards/static/js/runtime-main.f48bbcc1.js",
     "runtime-main.js.map": "/learning-with-cards/static/js/runtime-main.f48bbcc1.js.map",
     "static/js/2.c16afd4b.chunk.js": "/learning-with-cards/static/js/2.c16afd4b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f8c33ff2.chunk.js": "/learning-with-cards/static/js/3.f8c33ff2.chunk.js",
     "static/js/3.f8c33ff2.chunk.js.map": "/learning-with-cards/static/js/3.f8c33ff2.chunk.js.map",
     "index.html": "/learning-with-cards/index.html",
-    "static/css/main.f8ef6527.chunk.css.map": "/learning-with-cards/static/css/main.f8ef6527.chunk.css.map",
+    "static/css/main.19707505.chunk.css.map": "/learning-with-cards/static/css/main.19707505.chunk.css.map",
     "static/js/2.c16afd4b.chunk.js.LICENSE.txt": "/learning-with-cards/static/js/2.c16afd4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f48bbcc1.js",
     "static/js/2.c16afd4b.chunk.js",
-    "static/css/main.f8ef6527.chunk.css",
-    "static/js/main.27ad2c88.chunk.js"
+    "static/css/main.19707505.chunk.css",
+    "static/js/main.d44e61a7.chunk.js"
   ]
 }
